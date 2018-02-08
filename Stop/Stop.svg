@@ -7,5 +7,6 @@
 	.st1{fill:#FF4545;stroke:#FF4545;stroke-width:10;stroke-miterlimit:10;}
 </style>
 <circle class="st0" cx="377" cy="543" r="303"/>
-<rect x="277" y="431" class="st1" width="212" height="212"/>
+<path class="st1" d="M467,643H299c-12.2,0-22-9.8-22-22V453c0-12.2,9.8-22,22-22h168c12.2,0,22,9.8,22,22v168
+	C489,633.2,479.2,643,467,643z"/>
 </svg>
