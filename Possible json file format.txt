@@ -1,6 +1,7 @@
 filename : Date and time?
 {
-  "(BoatID)" : {
+    "BoatID" : "(BoatID)"
+    "Time" : "(Time)"
     "Longtitude" : "(longitude)"
     "Latitude" : "(latitude)"
     "Speed" : "(speed)"
@@ -11,5 +12,4 @@ filename : Date and time?
     "gyrYvalue" : [(gyroscope y values)]
     "gyrZvalue" : [(gyroscope z values)]
     "comp" : [(compass values)]
-  }
 }
