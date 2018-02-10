@@ -1,0 +1,15 @@
+filename : Date and time?
+{
+  "(BoatID)" : {
+    "Longtitude" : "(longitude)"
+    "Latitude" : "(latitude)"
+    "Speed" : "(speed)"
+    "accXvalue" : [(accelerometer x values)]
+    "accYvalue" : [(accelerometer y values)]
+    "accZvalue" : [(accelerometer z values)]
+    "gyrXvalue" : [(gyroscope x values)]
+    "gyrYvalue" : [(gyroscope y values)]
+    "gyrZvalue" : [(gyroscope z values)]
+    "comp" : [(compass values)]
+  }
+}
